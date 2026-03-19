@@ -5,3 +5,18 @@
     border-radius: 20px;
     text-align: left;
 }
+
+.btn{
+    border: 2px solid white;
+    background-color: transparent;
+    color: whitesmoke;
+    padding: 4px;
+    margin: 4px;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.country-visited{
+    background-color: rgb(40, 49, 12);
+}
